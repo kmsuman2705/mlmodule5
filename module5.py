@@ -2,6 +2,9 @@
 # coding: utf-8
 
 # In[5]:
+pip install scikit-learn
+from sklearn.linear_model import LogisticRegression
+
 
 
 import numpy as np
